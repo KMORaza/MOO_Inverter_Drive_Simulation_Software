@@ -2,7 +2,7 @@
 
 _Diese Desktop-Software simuliert einen elektrischen Wechselrichterantrieb und ist geschrieben in JavaFX. Diese Software ist eine verbesserte Version der Software, die ich früher geschrieben habe. Ich habe die frühere Version verbessert, indem ich eine Mehrziel-Optimierungstechnik eingebaut habe. Ich habe den Nicht-dominanten Genetischen Sortieralgorithmus II (NSGA-II) verwendet._
 
-_This desktop software simulates an electrical inverter drive and is written in JavaFX. This software is an enhanced version of the software which I wrote earlier. I enhanced the earlier version by incorporating multi-objective optimization technique. I used Non-dominated Sorting Genetic Algorithm II (NSGA-II)._
+_This desktop software simulates an electrical inverter drive and is written in JavaFX. This software is an enhanced version of the software which I wrote earlier. I enhanced the earlier version by incorporating multi-objective optimization (MOO) technique. I used Non-dominated Sorting Genetic Algorithm II (NSGA-II)._
 
 The NSGA-II-based multi-objective optimization successfully balances power loss, temperature, and fault resilience
 
